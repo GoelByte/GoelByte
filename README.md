@@ -23,16 +23,17 @@
 
 ---
 
-## 💻 Tech Stack:
-<details>
-<summary>🧠 Click to view full stack</summary>
+## ## 💻 Tech Stack:
+
+![MERN](https://img.shields.io/badge/MERN-Stack-%23232F3E?style=for-the-badge&logo=react&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-%237428C8.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+
 
 <br>
 
 <!-- Your full tech stack stays here -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-... *(keep your full badge list as is)*
+
 
 </details>
 
